@@ -1,0 +1,145 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fd5b7c41-b04f-4585-9d1f-909ab9f2f38c")
+	(paper "A4")
+	(title_block
+		(title "PENDA II")
+		(date "2025-04-06")
+		(rev "V1.0")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 102.87)
+		(size 76.2 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1ef5fa3f-552a-44b4-a974-2cde41df9adf")
+		(property "Sheetname" "Alim"
+			(at 25.4 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Alim_sch.kicad_sch"
+			(at 25.4 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PENDA2"
+				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 25.4)
+		(size 77.47 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7bd99791-7de9-47fc-bd84-fa19cfc3df0a")
+		(property "Sheetname" "Audio"
+			(at 24.13 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Audio_sch.kicad_sch"
+			(at 24.13 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PENDA2"
+				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 25.4)
+		(size 76.2 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8e604db-70bd-48c5-88c0-391116950fb8")
+		(property "Sheetname" "UI"
+			(at 113.03 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UI_sch.kicad_sch"
+			(at 113.03 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PENDA2"
+				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

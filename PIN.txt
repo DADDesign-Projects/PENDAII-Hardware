@@ -1,0 +1,41 @@
+
+Encoder0
+A	PA0/D25
+B	PD11/D26
+SW	PA1/D24
+
+
+Encoder1
+A 	PA7/D18
+B   PA6/D19
+SW  PB1/D17
+
+
+Encoder2
+A	PA5/D22
+B   PA0/D16
+SW  PC0/D15
+
+
+Encoder3
+A   PB8/D11
+B   PB9/D12
+SW  PG10/D7
+
+
+
+FootSwitch1 PG9/D27
+
+FootSwitch2 PA2/D28
+
+TFT_Reset   PC1/D20
+TFT_DC		PC4/D21
+TFT_MOSI	PB5/D10
+TFT_SCK		PG11/D8
+
+
+SSPI
+SDATA       PC11/D1
+CLK         PC10/D2
+CS          PC9/D3
+MUTE        D4

@@ -1,0 +1,11 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "82c7861e-6652-4aaf-8e19-f3c7a7536174")
+	(paper "A4")
+	(title_block
+		(title "Daisy Seed")
+	)
+	(lib_symbols)
+)
