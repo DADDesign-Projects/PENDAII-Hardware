@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.1"
     },
-    "CreationDate": "2025-05-12T14:22:17+02:00"
+    "CreationDate": "2025-05-23T09:46:46+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "PENDA2",
-      "GUID": "50454e44-4132-42e6-9b69-6361645f7063",
+      "Name": "PENDAII-Hardware",
+      "GUID": "50454e44-4149-4492-9d48-617264776172",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "PENDA2-F_Cu.gbr",
+      "Path": "PENDAII-Hardware-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-B_Cu.gbr",
+      "Path": "PENDAII-Hardware-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-F_Paste.gbr",
+      "Path": "PENDAII-Hardware-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-B_Paste.gbr",
+      "Path": "PENDAII-Hardware-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-F_Silkscreen.gbr",
+      "Path": "PENDAII-Hardware-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-B_Silkscreen.gbr",
+      "Path": "PENDAII-Hardware-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "PENDA2-F_Mask.gbr",
+      "Path": "PENDAII-Hardware-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "PENDA2-B_Mask.gbr",
+      "Path": "PENDAII-Hardware-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "PENDA2-Edge_Cuts.gbr",
+      "Path": "PENDAII-Hardware-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

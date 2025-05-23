@@ -45,7 +45,7 @@
 			)
 		)
 		(instances
-			(project "PENDA2"
+			(project "PENDAII-Hardware"
 				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
 					(page "4")
 				)
@@ -87,7 +87,7 @@
 			)
 		)
 		(instances
-			(project "PENDA2"
+			(project "PENDAII-Hardware"
 				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
 					(page "2")
 				)
@@ -129,7 +129,7 @@
 			)
 		)
 		(instances
-			(project "PENDA2"
+			(project "PENDAII-Hardware"
 				(path "/fd5b7c41-b04f-4585-9d1f-909ab9f2f38c"
 					(page "3")
 				)
